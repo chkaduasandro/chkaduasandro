@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sandro
 
 - 🔭 I’m currently working as a game developer in: <br/>
-----------[![My Skills](https://skillicons.dev/icons?i=unity,cs&perline=3)](https://skillicons.dev)
+__________[![My Skills](https://skillicons.dev/icons?i=unity,cs&perline=3)](https://skillicons.dev)
 
 - - 👯 I’m looking to collaborate with other developers.
 <!--
