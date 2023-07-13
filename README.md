@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sandro
 
-- 🔭 I’m currently working as a game developer in:
+- 🔭 I’m currently working as a game developer in: <br/>
 ![Git][git-shield]
 ![Unity][unity-shield]
 ![Rider][rider-shield]
