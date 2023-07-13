@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sandro
 
-- 🔭 I’m currently working as a game developer in:\n
+- 🔭 I’m currently working as a game developer in:/n
 - [![My Skills](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev)
 
 - - 👯 I’m looking to collaborate with other developers.
