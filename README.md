@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sandro
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
 - [![My Skills](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev)
 <!--
 **chkaduasandro/chkaduasandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
