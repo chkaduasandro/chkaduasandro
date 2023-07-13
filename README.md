@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Sandro
 
-- 🔭 I’m currently working as a game developer in:/n
-- [![My Skills](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev)
+- 🔭 I’m currently working as a game developer in:
+![Git][git-shield]
+![Unity][unity-shield]
+![Rider][rider-shield]
 
 - - 👯 I’m looking to collaborate with other developers.
 <!--
