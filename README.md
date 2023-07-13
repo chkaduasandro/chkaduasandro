@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Sandro
 
 - 🔭 I’m currently working as a game developer in: <br/>
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code>
+</div>
 [![My Skills](https://skillicons.dev/icons?i=unity,cs&perline=3)](https://skillicons.dev)
 
 - - 👯 I’m looking to collaborate with other developers.
