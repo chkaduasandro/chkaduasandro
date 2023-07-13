@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Sandro
 
 - 🔭 I’m currently working as a game developer in: <br/>
-<div align="center">
-[![My Skills](https://skillicons.dev/icons?i=unity,cs&perline=3)](https://skillicons.dev)
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs,git" />
+  </a>
+</p>
 
 - - 👯 I’m looking to collaborate with other developers.
 <!--
