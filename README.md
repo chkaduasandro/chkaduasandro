@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Sandro
 
-- 🔭 I’m currently working on
-- [![My Skills](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev)
+- 🔭 I’m currently working as a game developer in:
+  [![My Skills](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev)
+
+- - 👯 I’m looking to collaborate with other developers.
 <!--
 **chkaduasandro/chkaduasandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
